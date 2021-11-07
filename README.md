@@ -1,2 +1,1 @@
-# React_Skill
-React_practice
+# React_Skill 연습공간
